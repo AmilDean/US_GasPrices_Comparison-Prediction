@@ -16,3 +16,7 @@ P1: Weekly U.S. Premium All Formulations Retail Gasoline Prices (Dollars per Gal
 P2: Weekly U.S. Premium Conventional Retail Gasoline Prices (Dollars per Gallon)<br>
 P3: Weekly U.S. Premium Reformulated Retail Gasoline Prices (Dollars per Gallon)<br>
 D1: Weekly U.S. No 2 Diesel Retail Prices (Dollars per Gallon)<br>
+
+The data source can be found here: https://www.eia.gov/dnav/pet/pet_pri_gnd_dcus_nus_w.htm
+
+Kaggle link: https://www.kaggle.com/mruanova/us-gasoline-and-diesel-retail-prices-19952021
